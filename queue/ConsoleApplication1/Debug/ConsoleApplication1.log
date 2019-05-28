@@ -1,0 +1,7 @@
+﻿  소스3.c
+c:\users\218\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\소스3.c(41): warning C4133: '=': 'mystructing *'과(와) 'mystrct *' 사이의 형식이 호환되지 않습니다.
+c:\users\218\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\소스3.c(54): warning C4133: '=': 'mystrct *'과(와) 'mystructing *' 사이의 형식이 호환되지 않습니다.
+c:\users\218\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\소스3.c(67): warning C4133: '=': 'mystrct *'과(와) 'mystructing *' 사이의 형식이 호환되지 않습니다.
+c:\users\218\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\소스3.c(75): warning C4101: 'data' :참조되지 않은 지역 변수입니다.
+  ConsoleApplication1.vcxproj -> c:\users\218\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> c:\users\218\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
